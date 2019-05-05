@@ -1,0 +1,12 @@
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\Entidades\obj\Debug\Entidades.pdb

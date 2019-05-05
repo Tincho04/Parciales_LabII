@@ -1,0 +1,20 @@
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\VistaConsola.exe.config
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\VistaConsola.exe
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\VistaConsola.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\Entidades.dll
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\Entidades.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.exe
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaConsola\obj\Debug\VistaConsola.pdb

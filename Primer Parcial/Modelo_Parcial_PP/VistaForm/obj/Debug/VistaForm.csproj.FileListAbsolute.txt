@@ -1,0 +1,29 @@
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.exe.config
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.exe
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\Entidades.dll
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\bin\Debug\Entidades.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.exe
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.FrmPickup.resources
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.FrmPickup.resources
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaConsola.exe
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaConsola.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\VistaForm\bin\Debug\VistaConsola.exe.config

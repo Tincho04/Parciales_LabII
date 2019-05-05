@@ -1,0 +1,39 @@
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.exe.config
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.exe
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.pdb
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\Entidades.dll
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\Entidades.pdb
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.Form1.resources
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.exe
+D:\VisualStudio\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.Form1.resources
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Gaston-Pesoa\source\repos\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.Form1.resources
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Martin\Desktop\Avanzado Pessoa\guia-de-ejercicios-prog-y-lab-2-utn\Modelo_Parcial_2018_05_08_PP_II\VistaForm\obj\Debug\VistaForm.pdb

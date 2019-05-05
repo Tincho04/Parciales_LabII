@@ -1,0 +1,12 @@
+D:\VisualStudio\Pasquini.Sebastian.2D\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Pasquini.Sebastian.2D\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Avanzado Pasquini\Laboratorio2\Pasquini.Sebastian.2D\Entidades\obj\Debug\Entidades.pdb
