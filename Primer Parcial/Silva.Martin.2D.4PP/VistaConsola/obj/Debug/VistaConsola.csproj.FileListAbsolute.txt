@@ -1,0 +1,10 @@
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\VistaConsola\obj\Debug\VistaConsola.pdb

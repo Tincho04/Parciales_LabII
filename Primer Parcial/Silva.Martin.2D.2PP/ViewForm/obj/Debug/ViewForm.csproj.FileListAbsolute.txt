@@ -1,0 +1,13 @@
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\bin\Debug\ViewForm.exe.config
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\bin\Debug\ViewForm.exe
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\bin\Debug\ViewForm.pdb
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.FrmPickup.resources
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.Properties.Resources.resources
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.csproj.GenerateResource.cache
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.csproj.CopyComplete
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.exe
+C:\Users\Martin\Desktop\Nueva carpeta\ejercicios_programacion_2\Planes.Alejandro.2C.PP\ViewForm\obj\Debug\ViewForm.pdb

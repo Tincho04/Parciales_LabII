@@ -1,0 +1,6 @@
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\Entidades\bin\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\Entidades\obj\Debug\EntidadesFinancieras.csprojAssemblyReference.cache
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\Entidades\obj\Debug\EntidadesFinancieras.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\Entidades\obj\Debug\Entidades.dll
+C:\Users\Martin\Desktop\Parciales_LabII\Primer Parcial\Silva.Martin.2D.4PP\Entidades\obj\Debug\Entidades.pdb
