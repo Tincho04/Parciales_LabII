@@ -1,0 +1,30 @@
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\bin\Debug\Entidades.dll
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.Consultorios.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.SaladeEspera.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.Turnero.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Formularios\obj\Debug\Formularios.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\bin\Debug\Formularios.exe.config
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\bin\Debug\Formularios.exe
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\bin\Debug\Formularios.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\bin\Debug\Entidades.dll
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\bin\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.Consultorios.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.SaladeEspera.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.Turnero.resources
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.csproj.CopyComplete
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.exe
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Formularios\obj\Debug\Formularios.pdb

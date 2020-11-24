@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entidades.Binario&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Archivos\Binario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entidades.Texto" BaseTypeListCollapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Archivos\Texto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entidades.XML&lt;T&gt;">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Archivos\XML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.TurneroDAO">
+    <Position X="10.5" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIIgAAAAQBAAAAAAAAAIAAAAAAAABAAAIAAAE=</HashCode>
+      <FileName>Base de Datos\TurneroDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.EspDerivados">
+    <Position X="10.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAASAIACEgCAAgAgAAAAAAgAAICIAAAAgAgA=</HashCode>
+      <FileName>Derivados\EspDerivados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.PacDerivados">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAASAIACEgCAAgAAAAAAAAgAAIAoAAAAIAgA=</HashCode>
+      <FileName>Derivados\PacDerivados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.ArchivosException">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Excepciones\ArchivosException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.TurnoEnCursoException">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Excepciones\TurnoEnCursoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Validaciones">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Met. Extension\Validaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Reloj">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAAAI=</HashCode>
+      <FileName>Reloj\Reloj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Clinica" BaseTypeListCollapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAgAAAAIAAAAAA=</HashCode>
+      <FileName>Turnos\Clinica.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entidades.Propios">
+    <Position X="0.5" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACABAEAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Turnos\Propios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Turnos">
+    <Position X="1.5" Y="0.5" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="Entidades.Turnos.EEstado" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Turnos\Turnos.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAEgCAAAIQAIAAEEiAAAAAASAAAAEhCAAAAQggABAig=</HashCode>
+      <FileName>Turnos\Turnos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.TurnoXML">
+    <Position X="3" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAAAAAAAAAACAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Turnos\TurnoXML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IArchivo&lt;T&gt;">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAA=</HashCode>
+      <FileName>Interfaces\IArchivo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Entidades.IMostrar&lt;T&gt;">
+    <Position X="8.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMostrar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Entidades.ETipo">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Enumerado\ETipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Entidades.ClockDelegado" Collapsed="true">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Reloj\Reloj.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

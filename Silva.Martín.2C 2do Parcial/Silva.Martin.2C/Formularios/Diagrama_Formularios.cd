@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Formularios.Consultorios">
+    <Position X="6.5" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Formularios.Consultorios.DelegadoParaVerificarConsulta" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Consultorios.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Formularios.Consultorios.DelegadoParaActualizarConsulta" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Consultorios.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Formularios.Consultorios.DelegadoParaLimpiarList" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Consultorios.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAhAABCAAQgAAYAKAAAECAAgQAAAAQAIACAgAAAA=</HashCode>
+      <FileName>Consultorios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Formularios.Turnero">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Formularios.Turnero.DelegadoActualizaHora" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Turnero.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IBKmAAAAECQgEYAEAACQIAECikIABCADAsCgICRIAEQ=</HashCode>
+      <FileName>Turnero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Formularios.SaladeEspera">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Formularios.SaladeEspera.DelegadoParaLimpiarList" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SaladeEspera.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAABABACAAAAAAAALQAQECAAAAAACCEQQAAAAAAAA=</HashCode>
+      <FileName>SaladeEspera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

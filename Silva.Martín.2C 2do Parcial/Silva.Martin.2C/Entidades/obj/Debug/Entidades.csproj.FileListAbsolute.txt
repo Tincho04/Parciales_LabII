@@ -1,0 +1,11 @@
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mach\Desktop\Silva.Martín.2C\Silva.Martin.2C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Mach\Desktop\Silva.Martín.2C 2do Parcial\Silva.Martin.2C\Entidades\obj\Debug\Entidades.pdb
